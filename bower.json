@@ -1,0 +1,19 @@
+{
+  "name": "spritesmith-stylus",
+  "version": "0.0.0",
+  "homepage": "https://github.com/s-morgan-jeffries/spritesmith-stylus",
+  "authors": [
+    "Morgan <s.morgan.jeffries@gmail.com>"
+  ],
+  "description": "Stylus adapter for spritesmith",
+  "main": "index.styl",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
